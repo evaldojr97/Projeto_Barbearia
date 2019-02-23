@@ -111,5 +111,8 @@ button:focus{ /*Tira o contorno azul do botão*/
         transition: background-color 3s ease 0s;
       
   }
+  .logo{
+    width: 20%;
+}
  
 }
