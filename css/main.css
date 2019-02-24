@@ -2,6 +2,7 @@
 @import "_carrossel.css";
 @import "_footer.css";
 @import "_sobre.css";
+@import "_contato.css";
 
 html, body {
     margin: 0;
