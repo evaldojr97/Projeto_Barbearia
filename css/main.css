@@ -3,6 +3,7 @@
 @import "_footer.css";
 @import "_sobre.css";
 @import "_contato.css";
+@import "_novidades.css";
 
 html, body {
     margin: 0;
@@ -21,4 +22,10 @@ body {
     font-size: 20px;
     line-height: 30px;
     text-align: justify;
+}
+
+.content-test{
+    background-color: #141414;
+    color: white;
+    padding: 1em;
 }
